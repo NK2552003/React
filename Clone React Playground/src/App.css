@@ -1,0 +1,17 @@
+.card {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  margin: 10px;
+  padding: 10px;
+  display: inline-block;
+  background: #5b5959;
+  color: white;
+  width:200px;
+  border:2px solid darkslateblue;
+  border-radius: 12px;
+}
+
+.cards-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
